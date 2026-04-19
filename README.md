@@ -34,6 +34,13 @@ https://github.com/user-attachments/assets/8f0e5373-a4a8-46d0-b9ed-d33d59d0d681
 
 StringExercise1:https://github.com/user-attachments/assets/83e8a05b-1aad-4b08-a874-46055784ccb9
 
+StringExercise2:https://github.com/user-attachments/assets/8178a4d1-3c4c-4425-ac72-dd33dcd9ef71
+
+StringExercise3:https://github.com/user-attachments/assets/14e7162d-29ca-4edd-91bc-fb63a6bd40d8
+
+StringExercise4:https://github.com/user-attachments/assets/3398cc61-e2aa-4e20-9c54-02338b6ae858
+
+
 
 
 
