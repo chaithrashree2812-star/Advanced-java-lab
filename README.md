@@ -40,6 +40,7 @@ StringExercise3:https://github.com/user-attachments/assets/14e7162d-29ca-4edd-91
 
 StringExercise4:https://github.com/user-attachments/assets/3398cc61-e2aa-4e20-9c54-02338b6ae858
 
+StringExercise5:https://github.com/user-attachments/assets/c8178651-ae63-4617-a897-968f06f3f463
 
 
 
