@@ -12,3 +12,10 @@ p4:https://github.com/user-attachments/assets/46c4277a-5509-4ddc-bddd-5340672608
 
 p5:https://github.com/user-attachments/assets/2d6acc28-9a17-49c1-a5fa-46d7d804d859
 
+LinkedList
+
+p6:https://github.com/user-attachments/assets/3454b3fb-9cb2-4b87-a748-db7188a845c8
+
+
+
+
