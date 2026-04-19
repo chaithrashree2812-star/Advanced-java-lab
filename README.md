@@ -32,6 +32,9 @@ PerformanceTest:https://github.com/user-attachments/assets/2b7e71ab-60f9-4674-9c
 3aStringHandling:https://github.com/user-attachments/assets/e611e216-7733-4898-899d-9904bf2d6bdd,,
 https://github.com/user-attachments/assets/8f0e5373-a4a8-46d0-b9ed-d33d59d0d681
 
+StringExercise1:https://github.com/user-attachments/assets/83e8a05b-1aad-4b08-a874-46055784ccb9
+
+
 
 
 
