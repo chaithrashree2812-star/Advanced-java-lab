@@ -14,7 +14,14 @@ p5:https://github.com/user-attachments/assets/2d6acc28-9a17-49c1-a5fa-46d7d804d8
 
 LinkedList
 
-p6:https://github.com/user-attachments/assets/3454b3fb-9cb2-4b87-a748-db7188a845c8
+p6:https://github.com/user-attachments/assets/8aafe1ff-6198-4067-be0e-76dd1d145e76
+
+p7:https://github.com/user-attachments/assets/a3fc2a99-c4ad-4ab7-8085-b93f44eeaae9
+
+p8:
+
+p10:https://github.com/user-attachments/assets/3454b3fb-9cb2-4b87-a748-db7188a845c8
+
 
 
 
