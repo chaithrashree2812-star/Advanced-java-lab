@@ -42,7 +42,7 @@ StringExercise4:https://github.com/user-attachments/assets/3398cc61-e2aa-4e20-9c
 
 StringExercise5:https://github.com/user-attachments/assets/c8178651-ae63-4617-a897-968f06f3f463
 
-Stringexercise6:https://github.com/user-attachments/assets/216caeaa-e0e4-4e6a-a877-c0ec58eafc0b
+3cStringexercise6:https://github.com/user-attachments/assets/216caeaa-e0e4-4e6a-a877-c0ec58eafc0b
 
 StringExercise7:https://github.com/user-attachments/assets/400298e5-68c4-4907-8b57-60d66447b442
 
