@@ -44,6 +44,16 @@ StringExercise5:https://github.com/user-attachments/assets/c8178651-ae63-4617-a8
 
 Stringexercise6:https://github.com/user-attachments/assets/216caeaa-e0e4-4e6a-a877-c0ec58eafc0b
 
+StringExercise7:https://github.com/user-attachments/assets/400298e5-68c4-4907-8b57-60d66447b442
+
+StringExercise8:https://github.com/user-attachments/assets/a0193885-fe5a-4a44-bfaa-e31721e35a16
+
+StringExercise9:https://github.com/user-attachments/assets/98882369-7804-409a-8ea3-b56963b5e528
+
+StringExercise10:https://github.com/user-attachments/assets/3867a704-b996-4917-a22a-3a8eb669c050
+
+
+
 
 
 
