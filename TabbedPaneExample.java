@@ -1,33 +1,51 @@
 package Swings;
-import java.awt.Color;
+
 import javax.swing.*;
+import javax.swing.event.*;
+import java.awt.*;
 
-public class TabbedPaneExample {
-	JFrame f;
-	 TabbedPaneExample(){
-	 f=new JFrame();
+public class TabbedPaneExample extends JFrame {
 
-	 JPanel p1=new JPanel();
-	 JPanel p2=new JPanel();
-	 JPanel p3=new JPanel();
-	 p1.setBackground(Color.BLUE);
-	 p2.setBackground(Color.RED);
-	 p3.setBackground(Color.GREEN);
-	 JTabbedPane tp=new JTabbedPane();
-	 tp.setBounds(50,50,200,200);
-	 tp.add("BLUE",p1);
-	 tp.add("RED",p2);
-	 tp.add("GREEN",p3);
-	 f.add(tp);
-	 f.setSize(400,400);
-	 f.setLayout(null);
-	 f.setVisible(true);
-	 } 
+    JTabbedPane tabbedPane;
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		new TabbedPaneExample(); 
+    public TabbedPaneExample() {
 
-	}
+        tabbedPane = new JTabbedPane();
 
+        // Create panels
+        JPanel cyanPanel = new JPanel();
+        cyanPanel.setBackground(Color.CYAN);
+
+        JPanel magentaPanel = new JPanel();
+        magentaPanel.setBackground(Color.MAGENTA);
+
+        JPanel yellowPanel = new JPanel();
+        yellowPanel.setBackground(Color.YELLOW);
+
+        // Add tabs
+        tabbedPane.addTab("Cyan", cyanPanel);
+        tabbedPane.addTab("Magenta", magentaPanel);
+        tabbedPane.addTab("Yellow", yellowPanel);
+
+        // Listener for tab change
+        tabbedPane.addChangeListener(new ChangeListener() {
+            public void stateChanged(ChangeEvent e) {
+                int index = tabbedPane.getSelectedIndex();
+                String title = tabbedPane.getTitleAt(index);
+                System.out.println(title + " tab selected");
+            }
+        });
+
+        add(tabbedPane);
+
+        setTitle("Tabbed Pane Example");
+        setSize(400, 300);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setLocationRelativeTo(null);
+        setVisible(true);
+    }
+
+    public static void main(String[] args) {
+        SwingUtilities.invokeLater(() -> new TabbedPaneExample());
+    }
 }
