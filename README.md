@@ -65,6 +65,11 @@ https://github.com/user-attachments/assets/09087926-23dc-44f4-8883-5169cde6018e
 
 5cCountryCapitalList:https://github.com/user-attachments/assets/39bddf1b-a11c-48a0-a816-9d5d1f397681,,https://github.com/user-attachments/assets/a8d84f59-417f-4b0a-b790-4395b988dc49
 
+5dTabbedPaneExample:https://github.com/user-attachments/assets/71ce861c-3e02-4285-ab43-5f2c54cbf413,,
+https://github.com/user-attachments/assets/594788c2-f335-409b-954d-7ea87713e63b,,https://github.com/user-attachments/assets/12b71253-f554-44ac-b4fb-8f2425ffd92b,,https://github.com/user-attachments/assets/96321387-4456-4672-9968-255b261c5606
+
+
+
 
 
 
